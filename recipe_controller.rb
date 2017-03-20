@@ -1,3 +1,4 @@
+require_relative 'parser'
 require_relative 'view'
 require_relative 'recipe'
 
